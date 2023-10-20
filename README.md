@@ -1,4 +1,4 @@
-# Project Name
+# Sunrise Housing advanced regression
 > Identify prospective properties to invest in based on the prediction of the sale price of such properties.
 
 ## Table of Contents
